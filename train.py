@@ -2,6 +2,7 @@ import os
 
 import numpy as np
 import tensorflow as tf
+from tensorflow import keras
 import tensorflow.keras.backend as K
 from tensorflow.keras.callbacks import (EarlyStopping, ReduceLROnPlateau,
                                         TensorBoard)

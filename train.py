@@ -1,4 +1,5 @@
 import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 import numpy as np
 import tensorflow as tf
@@ -204,20 +205,20 @@ if __name__ == "__main__":
     # ------------------------------------------------------#
     #   训练后的模型保存的位置，保存在logs文件夹里面
     # ------------------------------------------------------#
-    log_dir = 'logs_noEager/'
+    log_dir = './logs_noEager/'
     # ----------------------------------------------------#
     #   classes和anchor的路径，非常重要
     #   训练前一定要修改classes_path，使其对应自己的数据集
     # ----------------------------------------------------#
-    classes_path = 'model_data/strawberry_class.txt'
-    anchors_path = 'model_data/yolo_anchors.txt'
+    classes_path = './model_data/strawberry_class.txt'
+    anchors_path = './model_data/yolo_anchors.txt'
     # ------------------------------------------------------#
     #   权值文件请看README，百度网盘下载
     #   训练自己的数据集时提示维度不匹配正常
     #   预测的东西都不一样了自然维度不匹配
     # ------------------------------------------------------#
     weights_path_my = log_dir + 'last_pruneYolov4TinyStrawberry.h5'
-    weights_path = 'model_data/yolov4_tiny_weights_coco.h5'
+    weights_path = './model_data/yolov4_tiny_weights_coco.h5'
     # ------------------------------------------------------#
     #   训练用图片大小
     #   一般在416x416和608x608选择

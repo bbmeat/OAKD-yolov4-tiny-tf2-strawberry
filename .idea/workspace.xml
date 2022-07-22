@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fb252de-4a3d-407a-9dac-226ce7df6145" name="变更" comment="&lt;1696044125@qq.com&gt;&#10;xiaoliu add starwary">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-    </list>
+    <list default="true" id="8fb252de-4a3d-407a-9dac-226ce7df6145" name="变更" comment="&lt;1696044125@qq.com&gt;&#10;xiaoliu add starwary" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +173,7 @@
       <workItem from="1658365613226" duration="14891000" />
       <workItem from="1658395634551" duration="1973000" />
       <workItem from="1658451868403" duration="1568000" />
-      <workItem from="1658453454099" duration="4580000" />
+      <workItem from="1658453454099" duration="4892000" />
     </task>
     <task id="LOCAL-00001" summary="&lt;1696044125@qq.com&gt;&#10;xiaoliu add starwary">
       <created>1658304090818</created>
@@ -221,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658453477595</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&lt;1696044125@qq.com&gt;&#10;xiaoliu add starwary">
+      <created>1658469408583</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658469408583</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,9 +248,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="&lt;1696044125@qq.com&gt;&#10;xiaoliu add starwary" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/OAKD_yolov4_tiny_tf2_strawberry$train.coverage" NAME="train 覆盖结果" MODIFIED="1658469013619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAKD_yolov4_tiny_tf2_strawberry$train.coverage" NAME="train 覆盖结果" MODIFIED="1658469164260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OAKD_yolov4_tiny_tf2_strawberry$detDepthStrawb_prunedYolov4Tiny_plainNN.coverage" NAME="detDepthStrawb-prunedYolov4Tiny-plainNN 覆盖结果" MODIFIED="1658452529215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OAKD_yolov4_tiny_tf2_strawberry$test.coverage" NAME="test 覆盖结果" MODIFIED="1658465927572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OAKD_yolov4_tiny_tf2_strawberry$train_prune_eager.coverage" NAME="train_prune_eager 覆盖结果" MODIFIED="1658396873459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAKD_yolov4_tiny_tf2_strawberry$train_prune_eager.coverage" NAME="train_prune_eager 覆盖结果" MODIFIED="1658469288994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

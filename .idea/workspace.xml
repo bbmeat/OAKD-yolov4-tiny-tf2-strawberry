@@ -2,11 +2,353 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fb252de-4a3d-407a-9dac-226ce7df6145" name="变更" comment="&lt;1696044125@qq.com&gt;&#10;xiaoliu add starwary">
-      <changelist_data name="xiaoliu" email="16960441215@qq.com" />
-      <change beforePath="$PROJECT_DIR$/.idea/OAKD-yolov4-tiny-tf2-strawberry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OAKD-yolov4-tiny-tf2-strawberry.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00003-16160356284338.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00007-16160356916470.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00008-16160357257280.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00009-16160357523585.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00010-16160358059750.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00016-16160359379178.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00017-16160359466573.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00021-16160359589306.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00022-16160359727755.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00030-16160359907142.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00032-16160360058259.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00033-16160360148281.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00035-16160360295502.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00039-16160360384888.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00041-16160360412076.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00042-16160360496610.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00045-16160361152003.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00048-16160361239994.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00052-16160361578174.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00056-16160362157805.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00058-16160362248287.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00061-16160362520039.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00062-16160362647874.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00067-16160362767418.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00074-16160363293621.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00076-16160363383476.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00080-16160363591645.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00082-16160363753542.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00087-16160363990295.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00088-16160364122651.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00092-16160364323914.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00098-16160364792273.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00110-16160366329983.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00111-16160366475485.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00112-16160366633475.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00113-16160366787237.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00114-16160367199148.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00115-16160367256503.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00116-16160367349004.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00117-16160367543100.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00118-16160367740328.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00119-16160367878183.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00120-16160367965539.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00121-16160368056810.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00122-16160368460480.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00123-16160368499866.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00124-16160368592846.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00126-16160368885381.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00127-16160369014455.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00128-16160369136832.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00129-16160369278885.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00130-16160369407032.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00131-16160369545658.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00135-16160369914172.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00136-16160370254074.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00138-16160370383159.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00139-16160370535213.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00142-16160370668985.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00144-16160370798529.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00146-16160371298969.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00149-16160371466324.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00150-16160371569305.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00152-16160371671671.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00153-16160371907007.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00154-16160372117811.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00155-16160372314251.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00157-16160373535154.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00158-16160374041952.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00159-16160374191516.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00161-16160374703169.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00162-16160374956828.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00163-16160375020746.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00164-16160375109039.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00165-16160375239375.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00167-16160375393314.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00168-16160375666329.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00169-16160376329730.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00170-16160376672640.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00171-16160376914862.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00172-16160377219427.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00173-16160377489014.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00174-16160377618110.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00175-16160377815663.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00179-16160378974573.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00185-16160379849072.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00191-16160380393400.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00195-16160380957574.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00197-16160381148773.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00199-16160381300359.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00201-16160381526487.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00202-16160381973898.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00205-16160382235953.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00207-16160382451006.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00213-16160383141415.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00214-16160383292979.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00256-16160387727494.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00257-16160388113167.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00259-16160388311034.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00260-16160388408086.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00261-16160388601871.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00266-16160392288728.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00270-16160392579242.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00271-16160392623617.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00274-16160392939903.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00275-16160393077727.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00276-16160393177739.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00278-16160393471555.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00279-16160393559692.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00281-16160394040708.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00282-16160394118531.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00285-16160394341231.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00286-16160394473274.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00287-16160394556098.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00288-16160394619391.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00291-16160395119773.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00292-16160395179315.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00293-16160395265576.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00294-16160395324482.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00295-16160395476860.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00297-16160395593757.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00298-16160396069597.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00300-16160396330412.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00304-16160396574822.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00305-16160396913618.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00310-16160397704746.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00311-16160398001823.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00314-16160398353274.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00316-16160398861342.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00317-16160399044979.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00319-16160399398296.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00320-16160399569882.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00325-16160401191692.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00326-16160401268745.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00327-16160401367183.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00336-16160402101735.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00337-16160402200184.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00338-16160402272383.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00340-16160402503969.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00341-16160402565376.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00342-16160402663679.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00344-16160402752753.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00347-16160403064986.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00348-16160403158434.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00349-16160403293143.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00350-16160403396749.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00351-16160403520031.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00352-16160403644116.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00357-16160404199341.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00360-16160404370760.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00362-16160404601086.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00366-16160405742015.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00367-16160405803890.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00369-16160405952975.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00372-16160407086632.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00375-16160407581115.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00376-16160407657689.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00382-16160408049640.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00384-16160408355476.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00385-16160408449872.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00386-16160408461435.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00389-16160408897293.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00391-16160409206245.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00394-16160409918993.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00395-16160410039942.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00400-16160410485988.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00401-16160410585530.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00406-16160411116128.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00408-16160411267244.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/Annotations/rgb-00410-16160411369130.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/ImageSets/Main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/ImageSets/Main/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/ImageSets/Main/train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/ImageSets/Main/trainval.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/ImageSets/Main/val.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00003-16160356284338.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00007-16160356916470.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00008-16160357257280.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00009-16160357523585.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00010-16160358059750.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00016-16160359379178.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00017-16160359466573.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00021-16160359589306.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00022-16160359727755.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00030-16160359907142.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00032-16160360058259.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00033-16160360148281.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00035-16160360295502.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00039-16160360384888.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00041-16160360412076.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00042-16160360496610.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00045-16160361152003.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00048-16160361239994.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00052-16160361578174.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00056-16160362157805.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00058-16160362248287.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00061-16160362520039.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00062-16160362647874.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00067-16160362767418.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00074-16160363293621.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00076-16160363383476.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00080-16160363591645.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00082-16160363753542.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00087-16160363990295.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00088-16160364122651.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00092-16160364323914.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00098-16160364792273.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00110-16160366329983.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00111-16160366475485.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00112-16160366633475.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00113-16160366787237.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00114-16160367199148.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00115-16160367256503.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00116-16160367349004.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00117-16160367543100.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00118-16160367740328.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00119-16160367878183.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00120-16160367965539.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00121-16160368056810.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00122-16160368460480.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00123-16160368499866.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00124-16160368592846.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00126-16160368885381.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00127-16160369014455.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00128-16160369136832.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00129-16160369278885.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00130-16160369407032.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00131-16160369545658.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00135-16160369914172.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00136-16160370254074.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00138-16160370383159.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00139-16160370535213.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00142-16160370668985.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00144-16160370798529.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00146-16160371298969.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00149-16160371466324.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00150-16160371569305.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00152-16160371671671.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00153-16160371907007.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00154-16160372117811.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00155-16160372314251.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00157-16160373535154.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00158-16160374041952.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00159-16160374191516.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00161-16160374703169.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00162-16160374956828.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00163-16160375020746.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00164-16160375109039.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00165-16160375239375.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00167-16160375393314.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00168-16160375666329.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00169-16160376329730.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00170-16160376672640.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00171-16160376914862.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00172-16160377219427.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00173-16160377489014.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00174-16160377618110.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00175-16160377815663.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00179-16160378974573.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00185-16160379849072.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00191-16160380393400.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00195-16160380957574.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00197-16160381148773.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00199-16160381300359.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00201-16160381526487.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00202-16160381973898.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00205-16160382235953.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00207-16160382451006.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00213-16160383141415.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00214-16160383292979.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00256-16160387727494.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00257-16160388113167.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00259-16160388311034.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00260-16160388408086.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00261-16160388601871.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00266-16160392288728.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00270-16160392579242.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00271-16160392623617.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00274-16160392939903.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00275-16160393077727.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00276-16160393177739.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00278-16160393471555.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00279-16160393559692.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00281-16160394040708.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00282-16160394118531.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00285-16160394341231.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00286-16160394473274.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00287-16160394556098.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00288-16160394619391.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00291-16160395119773.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00292-16160395179315.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00293-16160395265576.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00294-16160395324482.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00295-16160395476860.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00297-16160395593757.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00298-16160396069597.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00300-16160396330412.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00304-16160396574822.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00305-16160396913618.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00310-16160397704746.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00311-16160398001823.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00314-16160398353274.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00316-16160398861342.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00317-16160399044979.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00319-16160399398296.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00320-16160399569882.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00325-16160401191692.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00326-16160401268745.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00327-16160401367183.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00336-16160402101735.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00337-16160402200184.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00338-16160402272383.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00340-16160402503969.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00341-16160402565376.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00342-16160402663679.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00344-16160402752753.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00347-16160403064986.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00348-16160403158434.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00349-16160403293143.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00350-16160403396749.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00351-16160403520031.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00352-16160403644116.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00357-16160404199341.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00360-16160404370760.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00362-16160404601086.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00366-16160405742015.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00367-16160405803890.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00369-16160405952975.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00372-16160407086632.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00375-16160407581115.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00376-16160407657689.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00382-16160408049640.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00384-16160408355476.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00385-16160408449872.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00386-16160408461435.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00389-16160408897293.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00391-16160409206245.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00394-16160409918993.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00395-16160410039942.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00400-16160410485988.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00401-16160410585530.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00406-16160411116128.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00408-16160411267244.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/JPEGImages/rgb-00410-16160411369130.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOCdevkit/VOC2007/voc2yolo4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detDepthStrawb-prunedYolov4Tiny-plainNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/detDepthStrawb-prunedYolov4Tiny-plainNN.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +392,34 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Anaconda/envs/tensorflow/python.exe",
+    "last_opened_file_path": "G:/Python/OAKD-yolov4-tiny-tf2-strawberry",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.detDepthStrawb-prunedYolov4Tiny-plainNN">
+    <configuration name="detDepthStrawb-prunedYolov4Tiny-plainNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OAKD-yolov4-tiny-tf2-strawberry" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detDepthStrawb-prunedYolov4Tiny-plainNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="train" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="OAKD-yolov4-tiny-tf2-strawberry" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,6 +442,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="train_prune_eager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OAKD-yolov4-tiny-tf2-strawberry" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_prune_eager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detDepthStrawb-prunedYolov4Tiny-plainNN" />
+        <item itemvalue="Python.train_prune_eager" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -92,7 +484,9 @@
       <workItem from="1658301565834" duration="1112000" />
       <workItem from="1658302721953" duration="2551000" />
       <workItem from="1658306102665" duration="4289000" />
-      <workItem from="1658365613226" duration="5178000" />
+      <workItem from="1658365613226" duration="14891000" />
+      <workItem from="1658395634551" duration="1973000" />
+      <workItem from="1658451868403" duration="1240000" />
     </task>
     <task id="LOCAL-00001" summary="&lt;1696044125@qq.com&gt;&#10;xiaoliu add starwary">
       <created>1658304090818</created>
@@ -108,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658304225231</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&lt;1696044125@qq.com&gt;&#10;xiaoliu add starwary">
+      <created>1658372702917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658372702917</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +532,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="&lt;1696044125@qq.com&gt;&#10;xiaoliu add starwary" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/OAKD_yolov4_tiny_tf2_strawberry$train.coverage" NAME="train 覆盖结果" MODIFIED="1658372091010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAKD_yolov4_tiny_tf2_strawberry$train.coverage" NAME="train 覆盖结果" MODIFIED="1658396638850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAKD_yolov4_tiny_tf2_strawberry$detDepthStrawb_prunedYolov4Tiny_plainNN.coverage" NAME="detDepthStrawb-prunedYolov4Tiny-plainNN 覆盖结果" MODIFIED="1658452529215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAKD_yolov4_tiny_tf2_strawberry$train_prune_eager.coverage" NAME="train_prune_eager 覆盖结果" MODIFIED="1658396873459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

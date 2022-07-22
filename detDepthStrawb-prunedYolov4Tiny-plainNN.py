@@ -26,7 +26,7 @@ downscaleColor = True
 TARGET_SHAPE = (416, 416)
 
 # Get argument first
-nnBlobPath = str((Path(__file__).parent / Path('models/prunedYolov4TinyStrawberry.blob')).resolve().absolute())
+nnBlobPath = str((Path(__file__).parent / Path('./models/prunedYolov4TinyStrawberry.blob')).resolve().absolute())
 if len(sys.argv) > 1:
     nnBlobPath = sys.argv[1]
 

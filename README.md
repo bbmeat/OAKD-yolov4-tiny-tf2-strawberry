@@ -5,7 +5,8 @@
 ---
 
 ### 0. 准备python环境。
-tensorflow2 and depthai (newest)
+tensorflow2 and depthai (newest)  
+tensorflow2.6,numpy1.20,anaconda3,keras2.6
 
 ### 1. 准备水果数据集。
 我们的草莓数据集包含两个类:即, MatureStrawberry 和 GreenStrawberry. 所有数据都是从 [Kobayashi Farm](https://kobayashifarm-mitaka.tokyo/) 在日本三高市。非常感谢果园老板支持我们收集水果数据。<br><br>

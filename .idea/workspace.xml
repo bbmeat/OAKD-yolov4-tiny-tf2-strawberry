@@ -113,7 +113,7 @@
       <recent name="G:\Python\OAKD-yolov4-tiny-tf2-strawberry\VOCdevkit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train">
+  <component name="RunManager" selected="Python.train_prune_eager">
     <configuration name="detDepthStrawb-prunedYolov4Tiny-plainNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OAKD-yolov4-tiny-tf2-strawberry" />
       <option name="INTERPRETER_OPTIONS" value="" />

@@ -194,7 +194,7 @@ for gpu in gpus:
 if __name__ == "__main__":
     flag_read_weight = True
     flag_warmUp = not flag_read_weight
-    batch_size = 32
+    batch_size = 8
     batch_size_eval = 4
 
     Freeze_epoch = None

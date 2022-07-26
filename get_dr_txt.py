@@ -1,5 +1,5 @@
 #----------------------------------------------------#
-#   get test set detection-result and images-optional
+#  获取测试集检测结果和图像可选
 #----------------------------------------------------#
 import colorsys
 import copy
@@ -33,7 +33,7 @@ class mAP_YOLO(YOLO):
         assert model_path.endswith('.h5'), 'Keras model or weights must be a .h5 file.'
         
         #---------------------------------------------------#
-        #   Calculate the number of prior boxes and the number of types
+        #   计算先前框的数量和类型的数量
         #---------------------------------------------------#
         num_anchors = len(self.anchors)
         num_classes = len(self.class_names)
@@ -58,7 +58,7 @@ class mAP_YOLO(YOLO):
         np.random.seed(None)
 
         #---------------------------------------------------------#
-        #   post process for yolo_eval func, e.g., NMS, decode
+        #   yolo_eval post过程函数,例如,NMS,解码
         #---------------------------------------------------------#
         if self.eager:
             self.input_image_shape = Input([2,],batch_size=1)

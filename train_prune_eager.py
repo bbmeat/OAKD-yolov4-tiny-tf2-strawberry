@@ -209,10 +209,10 @@ if __name__ == "__main__":
     flag_warmUp = not flag_read_weight
     Freeze_epoch = None
 
-    batch_size = 32
+    batch_size = 8
     batch_size_eval = 4
     annotation_path = '2007_train.txt'
-    log_dir = 'logs_pruned/'
+    log_dir = 'logs'
     # ----------------------------------------------------#
     classes_path = 'model_data/strawberry_class.txt'
     anchors_path = 'model_data/yolo_anchors.txt'

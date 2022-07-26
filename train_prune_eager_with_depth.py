@@ -252,7 +252,7 @@ if __name__ == "__main__":
 
     rgb_position = lines[0].find('rgb-')
 
-    path_to_depth = os.listdir(r"./VOCdevkit/VOC2007/JPEGImages/depth/")
+    path_to_depth = os.listdir(r"VOCdevkit/VOC2007/JPEGImages/depth/")
     total_depth_names = []
     for depth_dir in path_to_depth:
         if depth_dir.endswith(".jpeg"):

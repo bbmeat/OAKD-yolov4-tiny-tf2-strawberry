@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Detect strawberry and label its location in spatial
+检测草莓并在空间上标注其位置
 """
 
 from pathlib import Path
@@ -132,7 +132,7 @@ spatialLocationCalculator.out.link(xoutSpatialData.input)
 xinSpatialCalcConfig.out.link(spatialLocationCalculator.inputConfig)
 
 
-# nn data, being the bounding box locations, are in <0..1> range - they need to be normalized with frame width/height
+# 神经网络数据,被边界框的位置,在< 0 . .1>范围-它们需要用帧宽/高进行规范化
 def frameNorm(frame, bbox):
     normVals = np.full(len(bbox), frame.shape[0])
     normVals[::2] = frame.shape[1]
@@ -147,7 +147,7 @@ def to_tensor_result(packet):
 
 
 def softmax(x):
-    """Compute softmax values for each sets of scores in x."""
+    """计算x中每组分数的softmax值。"""
     e_x = np.exp(x - np.max(x))
     return e_x / e_x.sum(axis=0)
 
